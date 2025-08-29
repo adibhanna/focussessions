@@ -6,9 +6,9 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"focussessions/internal/storage"
-	"focussessions/internal/ui/dashboard"
-	"focussessions/internal/ui/settings"
+	"github.com/adibhanna/focussessions/internal/storage"
+	"github.com/adibhanna/focussessions/internal/ui/dashboard"
+	"github.com/adibhanna/focussessions/internal/ui/settings"
 )
 
 func main() {

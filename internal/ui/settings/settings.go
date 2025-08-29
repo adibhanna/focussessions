@@ -10,8 +10,8 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"focussessions/internal/models"
-	"focussessions/internal/storage"
+	"github.com/adibhanna/focussessions/internal/models"
+	"github.com/adibhanna/focussessions/internal/storage"
 )
 
 type Model struct {

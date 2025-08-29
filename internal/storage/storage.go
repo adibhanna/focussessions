@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"focussessions/internal/models"
+	"github.com/adibhanna/focussessions/internal/models"
 )
 
 type Storage struct {

@@ -12,9 +12,9 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/google/uuid"
 
-	"focussessions/internal/models"
-	"focussessions/internal/storage"
-	"focussessions/internal/ui/help"
+	"github.com/adibhanna/focussessions/internal/models"
+	"github.com/adibhanna/focussessions/internal/storage"
+	"github.com/adibhanna/focussessions/internal/ui/help"
 )
 
 type tickMsg time.Time
