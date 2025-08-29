@@ -18,6 +18,22 @@ A beautiful CLI tool for managing focus sessions and tracking productivity. Buil
 
 ## Installation 📦
 
+### Via Homebrew (Recommended)
+
+```bash
+# Add the tap and install
+brew tap adibhanna/focussessions
+brew install focussessions
+```
+
+### Via Go Install
+
+```bash
+go install github.com/adibhanna/focussessions/cmd/focussessions@latest
+```
+
+### From Source
+
 ```bash
 # Clone the repository
 git clone https://github.com/adibhanna/focussessions.git
@@ -28,12 +44,6 @@ go build -o focussessions cmd/focussessions/main.go
 
 # Run the application
 ./focussessions
-```
-
-Or install directly with Go:
-
-```bash
-go install github.com/adibhanna/focussessions/cmd/focussessions@latest
 ```
 
 ## Usage 🚀
