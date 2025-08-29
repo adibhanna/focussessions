@@ -1,4 +1,4 @@
-module focussessions
+module github.com/adibhanna/focussessions
 
 go 1.25.0
 
