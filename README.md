@@ -20,7 +20,7 @@ A beautiful CLI tool for managing focus sessions and tracking productivity. Buil
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/focussessions.git
+git clone https://github.com/adibhanna/focussessions.git
 cd focussessions
 
 # Build the application
@@ -33,7 +33,7 @@ go build -o focussessions cmd/focussessions/main.go
 Or install directly with Go:
 
 ```bash
-go install github.com/yourusername/focussessions/cmd/focussessions@latest
+go install github.com/adibhanna/focussessions/cmd/focussessions@latest
 ```
 
 ## Usage 🚀
