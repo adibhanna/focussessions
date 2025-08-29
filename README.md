@@ -1,5 +1,9 @@
 # Focus Sessions 🎯
 
+<div align="center">
+  <img src="assets/focus.png" alt="Focus Sessions" width="600"/>
+</div>
+
 A beautiful CLI tool for managing focus sessions and tracking productivity. Built with [Bubble Tea](https://github.com/charmbracelet/bubbletea) for a delightful terminal UI experience.
 
 ## Features ✨
